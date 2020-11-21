@@ -6,16 +6,16 @@ There are 4 main notebooks in the repository that contain data preparation, mode
 
 Contents:
 
-Data Exploration Folder - All data exploration code and results
-dataset_diabetes - Datasets used
-Cost Matrix.xlsx - Explanation of the cost function created for model evaluation
+Data Exploration Folder - All data exploration code and results  
+dataset_diabetes - Datasets used  
+Cost Matrix.xlsx - Explanation of the cost function created for model evaluation  
+  
+Initial Modeling - Modeling iteration 1  
+Updated Modeling - Modeling iteration 2  
+Random Forest using H2O - Modeling iteration 3  
+Cost Sensitive Random Forest using CostCla - Modeling iteration 4  
+  
+Presentation Deck - Powerpoint presentation (video recording: https://bellevueuniversity-my.sharepoint.com/:v:/g/personal/spsears_my365_bellevue_edu/ETxG-6BvaiJKkRGzlneNTdMBwHOVLnNQnKMn04RfgBG3xg?e=rKnQK1)  
 
-Initial Modeling - Modeling iteration 1
-Updated Modeling - Modeling iteration 2
-Random Forest using H2O - Modeling iteration 3
-Cost Sensitive Random Forest using CostCla - Modeling iteration 4
-
-Presentation Deck - Powerpoint presentation (video recording: https://bellevueuniversity-my.sharepoint.com/:v:/g/personal/spsears_my365_bellevue_edu/ETxG-6BvaiJKkRGzlneNTdMBwHOVLnNQnKMn04RfgBG3xg?e=rKnQK1)
-
-Technical Report and Executive Summary - Final paper
+Technical Report and Executive Summary - Final paper  
 
