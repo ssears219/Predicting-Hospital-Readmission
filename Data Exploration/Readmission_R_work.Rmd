@@ -1,0 +1,35 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+setwd("C:/Users/Branch/Documents/misc. code and homework/DSC630")
+```{r install packages}
+install.packages("coefplot")
+install.packages("Rcmdr")
+install.packages("Rtools")
+install.packages("knitr")
+install.packages("pastecs")
+install.packages("Mmisc")
+install.packages("QuantPsyc")
+library(coefplot, quetly=TRUE)
+library(Rcmdr)
+library(Rtools)
+library(knitr)
+library(pastecs)
+library(Mmisc)
+library(QuantPsyc)
+```
+
+
+```{r import data}
+dbdata <- data.frame(read.csv('model_data_for_R.csv', stringsAsFactors = FALSE))
+head(dbdata)
+```
+
+
+
