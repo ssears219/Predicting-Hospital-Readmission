@@ -34,4 +34,4 @@ Jolene Branch
 ## Acknowledgments
 
 * [University of California Irvine](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
-* [Andrew Long] (https://towardsdatascience.com/predicting-hospital-readmission-for-patients-with-diabetes-using-scikit-learn-a2e359b15f0)
+* [Andrew Long](https://towardsdatascience.com/predicting-hospital-readmission-for-patients-with-diabetes-using-scikit-learn-a2e359b15f0)
