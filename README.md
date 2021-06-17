@@ -19,7 +19,7 @@ Presentation Deck - Powerpoint presentation (video recording: https://bellevueun
 
 Technical Report and Executive Summary - Final paper  
 
-# Project Title
+# Predicting Hospital Readmission for Diabetic Patients
 
 Simple overview of use/purpose.
 
