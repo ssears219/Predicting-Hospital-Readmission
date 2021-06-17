@@ -8,7 +8,7 @@ The need for repeated episodes of hospital care disrupts the patient's life, cos
 
 ## Data
 
-Diabetes 130-US hospitals for years 1999-2008 Data Set from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008).
+[Diabetes 130-US hospitals for years 1999-2008 Data Set from the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008).
 
 ## Contents
 
