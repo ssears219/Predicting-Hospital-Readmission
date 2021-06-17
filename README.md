@@ -12,23 +12,23 @@ Diabetes 130-US hospitals for years 1999-2008 Data Set from the UCI Machine Lear
 
 ## Contents
 
-Data Exploration folder - All data exploration code and results
-dataset_diabetes - Datasets used
-Cost Matrix.xlsx - Explanation of the cost function created for model evaluation
+Data Exploration folder - All data exploration code and results  
+dataset_diabetes - Datasets used  
+Cost Matrix.xlsx - Explanation of the cost function created for model evaluation  
 
-Initial Modeling.ipynb - Modeling iteration 1
-Updated Modeling.ipynb - Modeling iteration 2
-Random Forest using H2O.ipynb - Modeling iteration 3
-Cost Sensitive Random Forest using CostCla.ipynb - Modeling iteration 4
+Initial Modeling.ipynb - Modeling iteration 1  
+Updated Modeling.ipynb - Modeling iteration 2  
+Random Forest using H2O.ipynb - Modeling iteration 3  
+Cost Sensitive Random Forest using CostCla.ipynb - Modeling iteration 4  
 
-Technical Report and Executive Summary.pdf
-Presentation Deck.pdf - Video Recording: https://bellevueuniversity-my.sharepoint.com/??/g/personal/spsears_my365_bellevue_edu/ETxG-6BvaiJKkRGzlneNTdMBwHOVLnNQnKMn04RfgBG3xg?e=rKnQK1
+Technical Report and Executive Summary.pdf  
+Presentation Deck.pdf - Video Recording: https://bellevueuniversity-my.sharepoint.com/??/g/personal/spsears_my365_bellevue_edu/ETxG-6BvaiJKkRGzlneNTdMBwHOVLnNQnKMn04RfgBG3xg?e=rKnQK1  
 
 ## Authors
 
-Samuel Sears @ssears219
-Andrea Fox @anfox86
-Jolene Branch
+Samuel Sears @ssears219  
+Andrea Fox @anfox86  
+Jolene Branch  
 
 
 ## Acknowledgments
