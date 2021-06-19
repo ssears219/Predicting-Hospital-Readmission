@@ -24,6 +24,14 @@ Cost Sensitive Random Forest using CostCla.ipynb - Modeling iteration 4
 Technical Report and Executive Summary.pdf  
 Presentation Deck.pdf - [Video Recording](https://bellevueuniversity-my.sharepoint.com/:v:/g/personal/spsears_my365_bellevue_edu/ETxG-6BvaiJKkRGzlneNTdMBwHOVLnNQnKMn04RfgBG3xg?e=DeGwjR)
 
+## Tools
+* Python
+* Sklearn
+* Seaborn
+* Matplotlib
+* CostCla
+* H2O
+
 ## Authors
 
 Samuel Sears @ssears219  
