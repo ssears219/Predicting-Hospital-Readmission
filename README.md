@@ -2,6 +2,8 @@
 
 Using patient data from a hospital stay, can we predict whether that patient would be readmitted?
 
+![Health](https://cdn.pixabay.com/photo/2016/10/08/20/52/diabetes-1724617_960_720.jpg?raw=true)
+
 ## Description
 
 The need for repeated episodes of hospital care disrupts the patient's life, costs the healthcare industry billions of dollars each year, places demand on hospital bed capacity, and threatens the viability of hospitals with high readmission rates in the form of Medicare linking payment to the quality of hospital care. In this project, we attempt to predict whether or not a diabetic patient would be readmitted to the hospital using demographic and health related information gathered in the initial hospital admission. 
